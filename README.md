@@ -107,16 +107,16 @@ Always open to connecting with developers, founders, designers, and tech enthusi
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=httpsgithubcomsofenalihassan-alt&show_icons=true&bg_color=00000000&hide_border=true&title_color=11d452&icon_color=11d452" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=httpsgithubcomsofenalihassan-alt&layout=compact&bg_color=00000000&hide_border=true&title_color=11d452&icon_color=11d452" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sofenalihassan-alt&show_icons=true&bg_color=00000000&hide_border=true&title_color=11d452&icon_color=11d452" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sofenalihassan-alt&layout=compact&bg_color=00000000&hide_border=true&title_color=11d452&icon_color=11d452" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=httpsgithubcomsofenalihassan-alt&bg_color=00000000&hide_border=true&title_color=11d452&icon_color=11d452" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sofenalihassan-alt&bg_color=00000000&hide_border=true&title_color=11d452&icon_color=11d452" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=httpsgithubcomsofenalihassan-alt&bg_color=102216&color=11d452&line=11d452&point=11d452&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sofenalihassan-alt&bg_color=102216&color=11d452&line=11d452&point=11d452&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:11d452,100:0d1117&height=100&section=header&text=Thanks%20for%20visiting!%20%E2%AD%90&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" alt="banner" />

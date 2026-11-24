@@ -103,7 +103,7 @@ Always open to connecting with developers, founders, designers, and tech enthusi
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy-mu.vercel.app/?username=httpsgithubcomsofenalihassan-alt&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-mu.vercel.app/?username=sofenalihassan-alt&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
